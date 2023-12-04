@@ -1,0 +1,5 @@
+lab10  lectura, escritura
+lab11  asyncio
+lab12  copia, asyncio, threads
+lab13  locks, threadpool
+lab14  multiprocessing
